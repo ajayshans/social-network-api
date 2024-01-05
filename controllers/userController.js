@@ -100,7 +100,7 @@ module.exports = {
             return res.status(500).json(err);
         }
     },
-    // Remove a friend from a user's frined list
+    // Remove a friend from a user's friend list
     async removeFriend(req, res) {
         try {
             const user = await User.findOneAndUpdate(
