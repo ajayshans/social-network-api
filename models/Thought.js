@@ -47,4 +47,4 @@ userSchema
 // Initialise User model
 const Thought = model('thought', thoughtSchema);
 
-module.exports= Thought;
+module.exports = Thought;
