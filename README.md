@@ -10,10 +10,9 @@ The purpose of this project is to utilise NoSQL (MongoDB) and Object-Document Ma
 - Ensure testing POST and DELETE routes in Insomnia allows succesfful creation and deletion of reactions to thoughts and friends in a user's friend list
 
 ## Insomnia Application Preview
-<!-- TODO: Replace Insomnia application screenshots after adding to repo -->
 ![Application Screenshot 1](images/social-network-application-1.png)
 ![Application Screenshot 2](images/social-network-application-2.png)
 
 ## Submission Requirements
-- [Video Walkthrough](https://drive.google.com/file/d/1gEK_XXPaxO8ou-9oBYnXSpqopRC6rTw0/view)
+- [Video Walkthrough](https://drive.google.com/file/d/1xJEscXL4tYvMHd6mUD1TFQXrjl1RGLix/view)
 - [GitHub Repo](https://github.com/ajayshans/social-network-api)
