@@ -11,10 +11,9 @@ The purpose of this project is to utilise NoSQL (MongoDB) and Object-Document Ma
 
 ## Insomnia Application Preview
 <!-- TODO: Replace Insomnia application screenshots after adding to repo -->
-![Application Screenshot 1](images/ecommerce-backend-application-1.png)
-![Application Screenshot 2](images/ecommerce-backend-application-2.png)
+![Application Screenshot 1](images/social-network-application-1.png)
+![Application Screenshot 2](images/social-network-application-2.png)
 
 ## Submission Requirements
-<!-- TODO: Replace walkthrough video -->
-- [Video Walkthrough](https://drive.google.com/file/d/1HojOw4Z2VbN7SVO-KUty4XiVi3DY5Bwb/view)
+- [Video Walkthrough](https://drive.google.com/file/d/1gEK_XXPaxO8ou-9oBYnXSpqopRC6rTw0/view)
 - [GitHub Repo](https://github.com/ajayshans/social-network-api)
